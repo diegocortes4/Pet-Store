@@ -26,7 +26,6 @@ public class Main {
                 pss.purchasePet(name);
             }else if(input.equals("Exit")){
                 shouldLoop = false;
-              
                 // will break the while loop next time the while loop condition is checked
             }
         }
